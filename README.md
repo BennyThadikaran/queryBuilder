@@ -1,4 +1,4 @@
-# QueryBuilder
+# QueryBuilder [ARCHIVED - NOT MAINTAINED]
 
 A PDO wrapper class for running database queries.
 
